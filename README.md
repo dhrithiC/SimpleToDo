@@ -4,7 +4,7 @@
 
 Submitted by: **Dhrithi Chidananda**
 
-Time spent: **20** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
